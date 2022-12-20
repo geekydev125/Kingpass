@@ -108,6 +108,7 @@ const PoweredBy = styled.div`
   flex-direction: column;
   align-items: center;
   padding-top: 1.5rem;
+  padding-bottom: 2.5rem;
 `;
 
 const SmallText = styled.div`
@@ -117,4 +118,8 @@ const SmallText = styled.div`
 const KingLogo = styled.img`
   width: 80px;
   height: 80px;
+  @media screen and (max-width: 768px) {
+    width: 60px;
+    height: 60px;
+  }
 `;
