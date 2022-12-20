@@ -19,7 +19,7 @@ export const ComingSoon = () => {
           <SocialLeftBtn href={'https://t.me/KlNGfinance'} rel="noopener noreferrer">
             <Img src={TelegramSvg} alt="telegram-svg" />
           </SocialLeftBtn>
-          <SocialRightBtn href={'https://twitter.com/klngfinance'} rel="noopener noreferrer">
+          <SocialRightBtn href={'https://twitter.com/kingfinance'} rel="noopener noreferrer">
             <Img src={TwitterSvg} alt="twitter-svg" />
           </SocialRightBtn>
         </ButtonGroup>
